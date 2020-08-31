@@ -22,7 +22,7 @@ Standard scikit learn machine learning tools
 
 ### 1.2 Pre-processing prior to application of logistic regression
 
-![COV19](images/credit-risk.jpg)
+![Credit Risk](images/credit-risk.jpg)
 
 a. Features extracted from dataset by excluding risk classification
 b. Standard scaler package is applied on the non categorical components of dataset (all except homeowner)
